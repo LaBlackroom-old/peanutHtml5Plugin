@@ -12,7 +12,7 @@
  * peanutBase class for all symfony tasks.
  * @see sfBaseTask for more information
  *
- * @package    peanut5Plugin
+ * @package    peanutHtml5Plugin
  * @subpackage task
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @version    SVN: $Id$

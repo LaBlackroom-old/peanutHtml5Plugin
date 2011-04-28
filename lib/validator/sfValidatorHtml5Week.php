@@ -5,9 +5,9 @@
  *
  * @see http://www.w3.org/TR/html-markup/input.date.html
  *
- * @package peanutHtml5plugin
+ * @package peanutHtml5Plugin
  * @subpackage validator
- * @author Alexandre 'pocky' Balmes <albalmes@gmail.com>
+ * @author Alexandre "pocky" Balmes <albalmes@gmail.com> <albalmes@gmail.com>
  */
 
 class sfValidatorHtml5Week extends sfValidatorHtml5Date

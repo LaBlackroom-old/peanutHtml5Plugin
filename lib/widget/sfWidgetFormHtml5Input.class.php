@@ -5,7 +5,7 @@
  *
  * @package peanutHtml5Plugin
  * @subpackage widget
- * @author Alexandre 'pocky' Balmes <albalmes@gmail.com>
+ * @author Alexandre "pocky" Balmes <albalmes@gmail.com> <albalmes@gmail.com>
  */
 
 
@@ -49,12 +49,12 @@ class sfWidgetFormHtml5Input extends sfWidgetFormInput
    *  * class:            A name of a classification, or list of names of classifications, to which the element belongs.
    *  * contenteditable:  Specifies that element represents a control whose value is not meant to be edited.
    *  * contextmenu:      The value of the id attribute on the menu with which to associate the element as a context menu.
-   *  * dir:              Specifies the element’s text directionality.
+   *  * dir:              Specifies the element‚Äôs text directionality.
    *  * draggable:        Specifies whether the element is draggable.
    *  * dropzone:         Specifies what types of content can be dropped on the element, and instructs the UA about which actions to take
    *                      with content when it is dropped on the element.
    *  * hidden:           Specifies that the element represents an element that is not yet, or is no longer, relevant.
-   *  * lang:             Specifies the primary language for the contents of the element and for any of the element’s attributes that
+   *  * lang:             Specifies the primary language for the contents of the element and for any of the element‚Äôs attributes that
    *                      contain text.
    *  * spellcheck:       Specifies whether the element represents an element whose contents are subject to spell checking and grammar
    *                      checking.

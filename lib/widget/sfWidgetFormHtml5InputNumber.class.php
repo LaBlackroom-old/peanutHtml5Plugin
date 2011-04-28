@@ -5,7 +5,7 @@
  *
  * @package peanutHtml5Plugin
  * @subpackage widget
- * @author Alexandre 'pocky' Balmes <albalmes@gmail.com>
+ * @author Alexandre "pocky" Balmes <albalmes@gmail.com> <albalmes@gmail.com>
  * @author Xav 'xavismeh'<xav.is@2cool4school.fr>
  */
 

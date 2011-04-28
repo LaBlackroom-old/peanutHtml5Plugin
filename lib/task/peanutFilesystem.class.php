@@ -11,7 +11,7 @@
 /**
  * peanutFilesystem provides basic utility to manipulate the file system.
  *
- * @package    peanut5plugin
+ * @package    peanutHtml5Plugin
  * @subpackage task
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @version    SVN: $Id$

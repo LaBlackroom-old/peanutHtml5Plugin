@@ -5,7 +5,7 @@
  *
  * @package    symfony
  * @subpackage task
- * @author     Alexandre 'pocky' Balmes <albalmes@gmail.com>
+ * @author     Alexandre "pocky" Balmes <albalmes@gmail.com> <albalmes@gmail.com>
  * @version    SVN: $Id$
  */
 class peanutGenerateAppTask extends peanutBaseTask

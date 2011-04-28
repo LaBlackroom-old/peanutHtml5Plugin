@@ -7,7 +7,7 @@
  * @subpackage helper
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     David Heinemeier Hansson
- * @author     Alexandre 'pocky' Balmes <albalmes@gmail.com>
+ * @author     Alexandre "pocky" Balmes <albalmes@gmail.com> <albalmes@gmail.com>
  * @version    SVN: $Id$
  */
 
