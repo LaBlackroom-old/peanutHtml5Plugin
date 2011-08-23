@@ -127,7 +127,7 @@ class sfWidgetFormHtml5InputText extends sfWidgetFormHtml5Input
   public function getStylesheets()
   {
     return array(
-      '/css/widget/ui-lightness/jquery-ui-1.8.9.custom.css' => 'screen, projection'
+      '/css/widget/smoothness/jquery-ui-1.8.16.custom.css' => 'screen, projection'
     );
   }
 }
