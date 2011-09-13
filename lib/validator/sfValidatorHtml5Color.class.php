@@ -22,7 +22,7 @@ class sfValidatorHtml5Color extends sfValidatorBase
    */
   public function configure($options = array(), $messages = array())
   {
-    $this->setMessage('invalid', 'The date is not valid');
+    $this->setMessage('invalid', 'The color is not valid');
   }
 
   public function doClean($value)
