@@ -111,7 +111,7 @@ class sfWidgetFormHtml5InputText extends sfWidgetFormHtml5Input
   public function getJavaScripts()
   {
     return array(
-      '/js/widget/jquery-ui-1.8.9.custom.min.js'
+      '/js/widget/jquery-ui-1.8.16.custom.min.js'
     );
   }
 
